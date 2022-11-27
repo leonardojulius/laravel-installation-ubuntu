@@ -1,9 +1,9 @@
 - Installation & Deployment
 
-  - [MySQL](networkandsysteadmin.md)
-  - [PHP](systemrequirements.md)
-  - [PhpMyAdmin](Installation-morepages.md)
-  - [Composer](connection_ris_users.md)
-  - [Laravel](connection_ris_users.md)
+  - [MySQL](contents/installationDeployment/mysql.md)
+  - [PHP](contents/installationDeployment/php.md)
+  - [PhpMyAdmin](contents/installationDeployment/phpmyadmin.md)
+  - [Composer](contents/installationDeployment/composer.md)
+  - [Laravel](contents/installationDeployment/composer.md)
 
 
